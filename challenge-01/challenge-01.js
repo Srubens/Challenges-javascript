@@ -13,7 +13,7 @@
 // Atribua à variável `soma` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
 //?
 
-// Qual é o valor da variável `soma` até aqui//?
+// Qual é o valor da variável `soma` até aqui?
 //?
 
 // Declare uma variável chamada `souninja`, atribuindo à ela o valor booleano que representa `verdadeiro`.
@@ -31,7 +31,9 @@
 // Digite o código que verifica se a variável `myvar` é menor ou igual à variável `soma`.
 //?
 
-// Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles.
+/** Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne 
+ * o resultado da divisão entre eles.
+ */
 //?
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
